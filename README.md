@@ -1,2 +1,2 @@
 # Sakshi-Jain
-Code for Python For Begineers
+Code in Python For Begineers
